@@ -44,7 +44,7 @@
 
 你可以通过以下方式联系我们：
 - 提交 issue 或 discussion 留言
-- 发送邮件到：`zw.vivien007@gmail.com`
+- 发送邮件到：`zw.vivien007[at]gmail[dot]com
 - 或留下你之前做过的项目链接、GitHub账号，我们会主动联系你！
 
 ---
